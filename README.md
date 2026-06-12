@@ -1,1 +1,1 @@
-# Overload
+# O Overload é um diário de treino digital focado na alta performance e na quebra de recordes pessoais. Diferente de aplicativos de fitness genéricos que focam em vídeos de exercícios, o Overload é uma ferramenta de análise de dados para o praticante de musculação que deseja visualizar sua progressão de carga, volume total e consistência ao longo do tempo
